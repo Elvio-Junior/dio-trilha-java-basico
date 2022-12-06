@@ -1,0 +1,83 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Desafio5",
+            "request": "launch",
+            "mainClass": "Desafio5",
+            "projectName": "executar-terminal_1ae77d97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Desafio4",
+            "request": "launch",
+            "mainClass": "Desafio4",
+            "projectName": "executar-terminal_1ae77d97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Desafio3",
+            "request": "launch",
+            "mainClass": "Desafio3",
+            "projectName": "executar-terminal_1ae77d97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Desafio2",
+            "request": "launch",
+            "mainClass": "Desafio2",
+            "projectName": "executar-terminal_1ae77d97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Desafio1",
+            "request": "launch",
+            "mainClass": "Desafio1",
+            "projectName": "executar-terminal_1ae77d97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "executar-terminal_1ae77d97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scanner",
+            "request": "launch",
+            "mainClass": "Scanner",
+            "projectName": "executar-terminal_1ae77d97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "executar-terminal_1ae77d97"
+        },
+        {
+            "type": "java",
+            "name": "Launch Argumentos",
+            "request": "launch",
+            "mainClass": "Argumentos",
+            "projectName": "executar-terminal_1ae77d97",
+            "args": [
+                "Nome",
+                "Sobrenome",
+                "48",
+                "1.86"
+            ]
+        }
+    ]
+}
